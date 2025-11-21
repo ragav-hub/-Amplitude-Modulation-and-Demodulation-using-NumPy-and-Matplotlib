@@ -107,4 +107,4 @@ plt.show()
 
  __Result__:
 
-Thus, amplitude modulation (AM) using Python's NumPy and Matplotlib libraries is implemented and analyzed sucessfully.
+Thus, Amplitude Modulation (AM) using Python's NumPy and Matplotlib libraries is implemented and analyzed sucessfully.
